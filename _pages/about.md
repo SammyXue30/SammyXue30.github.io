@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cyber.t.u-tokyo.ac.jp/ja' target="_blank" rel="noopener">Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.cyber.t.u-tokyo.ac.jp/ja' target="_blank" rel="noopener">東京大学 葛岡・谷川・鳴海研究室（Cyber Interface Laboratory）</a>
 
 profile:
   align: right
