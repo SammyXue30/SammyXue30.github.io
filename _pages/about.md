@@ -19,7 +19,7 @@ profile:
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
-Hi!👋☺️
+Hi!☺️
 
 I am Bowen Xue, a Human-Computer Interaction (HCI) researcher and creative technologist. My work is focused on the intersection of technology and the humanities, where I explore how to build interactive experiences that are not only meaningful but also resonant.
 
