@@ -9,17 +9,27 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>東京大学 大学院情報学環・学際情報学府</p>
-    <p> 先端表現情報学コース 修士課程 M1</p>
-    <p>Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies, The University of Tokyo</p>
-    <p>Emerging Design and Informatics Course M1</p>
+    <p>#Human-Computer Interaction(HCI)</p>
+    <p></p>
+    <p>#Spatial Computing / XR Design</p>
+    <p></p>
+    <p>#Interactive Storytelling</p>
+    <p></p>
+    <p>#Memory & Perception</p>
 
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
+Hi!👋☺️
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Bowen Xue, a Human-Computer Interaction (HCI) researcher and creative technologist. My work is focused on the intersection of technology and the humanities, where I explore how to build interactive experiences that are not only meaningful but also resonant.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+This pursuit stems from my dual passion for design aesthetics and engineering logic. During my undergraduate studies, I pursued a double major in Software Engineering and Japanese, which allowed me to build technical programming skills while simultaneously developing an appreciation for humanistic perspectives. This period included a year-long exchange at Tokyo City University's [Visual Media Laboratory](https://www.ke.tcu.ac.jp/labo/cs05/), where I developed a practical project to mitigate VR sickness.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am a Master's student in the [Emerging Design and Informatics Course](https://www.iii.u-tokyo.ac.jp/education/courses/emergingdi) at the University of Tokyo's Graduate School of Interdisciplinary Information Studies (GSII). My core research investigates the mechanisms of memory confusion between reality and virtual reality (VR). I am deeply interested in how new technologies impact people, and in the creation of human-centered interfaces and creative content.
+
+Beyond theory, I enjoy the process of translating complex concepts into tangible, interactive prototypes using tools like Swift (SwiftUI/RealityKit/ARKit), Unity (C#), and Python. As a team leader, I led the development of two interactive projects for the University of Tokyo's [iii Exhibition 2025](https://www.u-tokyo.ac.jp/focus/ja/events/z0115_00083.html), which are detailed on the [projects page](https://sammyxue30.github.io/projects/).
+
+I have also been an Apple Teacher for the [Apple Summer Camp](https://www.apple.com.cn/today/camp/), teaching creative coding and digital illustration on the iPad to help inspire technological creativity in a younger generation.
+
+In my free time, my 10+ years of drawing and design experience serve as my creative outlet. I move fluidly between sketching ideas with traditional pen and paper and crafting digital creations with Procreate on iPad.
