@@ -9,13 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>#Human-Computer Interaction(HCI)</p>
-    <p></p>
-    <p>#Spatial Computing / XR Design</p>
-    <p></p>
-    <p>#Interactive Storytelling</p>
-    <p></p>
-    <p>#Memory & Perception</p>
+    <ul class="profile-tags">
+      <li>#Human-Computer Interaction (HCI)</li>
+      <li>#Spatial Computing / XR Design</li>
+      <li>#Interactive Storytelling</li>
+      <li>#Memory & Perception</li>
+    </ul>
 
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
