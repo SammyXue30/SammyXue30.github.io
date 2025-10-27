@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-project-1",
-        title: 'project 1',
-        description: "with background image",
+        },{id: "projects-line-effect",
+        title: 'Line Effect',
+        description: "A Peripheral Visual Effect with Motion Lines for Reducing VR Sickness",
         section: "Projects",handler: () => {
             window.location.href = "/projects/1_project.html";
           },},{id: "projects-project-2",
