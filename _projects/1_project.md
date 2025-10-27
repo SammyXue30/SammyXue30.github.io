@@ -1,25 +1,38 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Line Effect
+description: A Peripheral Visual Effect with Motion Lines for Reducing VR Sickness
+img: assets/img/LineEffect.gif
 importance: 1
-category: work
-related_publications: true
+category: Work
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<div class="row align-items-center">
+  <!-- 左侧文字 -->
+  <div class="col-md-8">
+    <p>
+      VR Sickness or Cybersickness remains a significant challenge grappling the Virtual Reality (VR) industry. 
+      Its primary cause is widely understood through the 
+      <a href="https://dl.acm.org/doi/abs/10.1145/333329.333344">sensory conflict theory</a>.
+    </p>
+    <p>
+      This theory posits a "physiological mismatch" or "perceptual conflict" between two vital sensory systems: the visual system and the vestibular system. 
+      In a typical VR scenario, when a user navigates a virtual landscape, their eyes register optical flow, signaling to the brain that they are in motion. 
+      However, if the user is physically stationary, the vestibular system detects no actual movement, contradicting the visual input.
+    </p>
+  </div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+  <!-- 右侧图片 -->
+  <div class="col-md-4">
+    {% include figure.liquid 
+       loading="eager" 
+       path="assets/img/VestibularSystem.jpg" 
+       title="Vestibular System" 
+       caption="Vestibular System" 
+       class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
