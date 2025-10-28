@@ -10,8 +10,8 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "A collection of research and interactive projects blending culture, design, and immersive technology.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -28,9 +28,9 @@ ninja.data = [{
         description: "A Peripheral Visual Effect with Motion Lines for Reducing VR Sickness",
         section: "Projects",handler: () => {
             window.location.href = "/projects/1_project.html";
-          },},{id: "projects-project-2",
-        title: 'project 2',
-        description: "a project with a background image and giscus comments",
+          },},{id: "projects-the-you-you-are",
+        title: 'The You You Are',
+        description: "An interactive installation for real-time dialogue with another self.",
         section: "Projects",handler: () => {
             window.location.href = "/projects/2_project.html";
           },},{id: "projects-project-3-with-very-long-name",
