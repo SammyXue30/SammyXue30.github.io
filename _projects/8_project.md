@@ -4,7 +4,7 @@ title: 28Xiu
 description: Bringing the 28 Celestial Mansions to Life with AR
 tags: [Swift, Xcode]
 img: assets/img/28Xiu.jpg
-importance: 2
+importance: 1
 category: Work
 giscus_comments: true
 ---
@@ -65,7 +65,6 @@ The application invites users to explore the rich system of the 28 Mansions thro
 
 <hr class="mb-4">
 <h4 class="mb-3">Credits</h4>
-<div style="height: 1.5rem;"></div>
 Bowen Xue (薛博文) — Project Lead, Development & Design<br> 
 Peiyao Qiao (乔沛瑶) — Design<br> 
 Siyu Yao (姚思妤) — Design<br> 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of research and interactive projects blending culture, design, and immersive technology.
 nav: true
 nav_order: 3
 display_categories: [Work, Art]

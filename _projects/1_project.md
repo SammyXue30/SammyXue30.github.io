@@ -4,7 +4,7 @@ title: Line Effect
 description: A Peripheral Visual Effect with Motion Lines for Reducing VR Sickness
 tags: [Swift, Python, C#, Xcode, Unity]
 img: assets/img/LineEffect.gif
-importance: 1
+importance: 3
 category: Work
 related_publications: false
 ---
@@ -63,7 +63,7 @@ Therefore, `Augmented Reality (AR)` was chosen as the experimental platform beca
   <!-- 左侧文字 -->
   <div class="col-md-8">
     <p>
-      An iOS AR application titled “MLs” (Motion Lines) was developed using <code>ARKit</code>. An interactive control panel was built with <code>SwiftUI</code> and <code>SF Symbols</code>, enabling participants to evaluate 27 unique arrangements of motion lines by adjusting three parameters: Line Size, Matrix Size, and Spacing.
+      An iOS AR App titled “MLs” (Motion Lines) was developed using <code>ARKit</code>. An interactive control panel was built with <code>SwiftUI</code> and <code>SF Symbols</code>, enabling participants to evaluate 27 unique arrangements of motion lines by adjusting three parameters: Line Size, Matrix Size, and Spacing.
     </p>
     <p>
       To ensure precise transfer of the selected configuration from AR to Unity, a <code>Python</code> script using OpenCV was developed. This “Cyan Detector” analyzed video recordings to calculate the density of motion lines, ensuring accurate replication in the final VR implementation.
@@ -133,7 +133,12 @@ Results from a repeated-measures one-way ANOVA supported the efficacy of the Lin
 The Line Effect significantly reduced cybersickness (measured by SSQ scores) while preserving the perceived naturalness of the VR experience—successfully addressing the limitations of the Dot Effect.
 
 <hr class="mb-4">
+<h4 class="mb-3">Link</h4>
 <div class="text-start mt-2">
   <p><a href="https://drive.google.com/file/d/1yxPIE7ruP1nEx6b3l1g3n-zT26zpN-XS/view?usp=share_link" target="_blank"><strong>[Research Report]</strong></a></p>
   <p><a href="https://drive.google.com/file/d/1EIDYY1DrOviFCu-5gos2_iJj2YyCfPlu/view?usp=share_link" target="_blank"><strong>[Research Overview]</strong></a></p>
 </div>
+
+<hr class="mb-4">
+<h4 class="mb-3">Credits</h4>
+Bowen Xue (薛博文)<br> 
