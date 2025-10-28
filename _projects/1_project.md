@@ -8,13 +8,12 @@ importance: 1
 category: Work
 related_publications: false
 ---
-
 <div class="mb-3">
   {% for tag in page.tags %}
     <span class="badge bg-primary me-1">{{ tag }}</span>
   {% endfor %}
 </div>
-
+<hr class="mb-4">
 <div class="row align-items-center">
   <!-- 左侧文字 -->
   <div class="col-md-8">
@@ -43,8 +42,10 @@ While existing mitigation techniques, such as the <a href="https://ieeexplore.ie
 
 The objective of this research was to design and implement a novel peripheral visual effect, termed the `Line Effect`, aimed at mitigating cybersickness without compromising the immersive quality of VR.
 
+
+<hr class="mb-4">
 <h4>Preliminary Experiment (AR Prototype & Selection)</h4>
-<p></p>
+<div style="height: 1.5rem;"></div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" 
@@ -80,9 +81,9 @@ Therefore, `Augmented Reality (AR)` was chosen as the experimental platform beca
   </div>
 </div>
 
-<h4>Main Experiment (Unity Implementation)</h4>
-<p></p>
-
+<hr class="mb-4">
+<h4 class="mb-3">Main Experiment (Unity Implementation)</h4>
+<div style="height: 1.5rem;"></div>
 <div class="col-sm mt-3 mt-md-0">
   {% include figure.liquid loading="eager" path="assets/img/Channels.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
@@ -130,3 +131,9 @@ A main experiment involving 19 participants compared three visual conditions:	1.
 
 Results from a repeated-measures one-way ANOVA supported the efficacy of the Line Effect. <br> 
 The Line Effect significantly reduced cybersickness (measured by SSQ scores) while preserving the perceived naturalness of the VR experience—successfully addressing the limitations of the Dot Effect.
+
+<hr class="mb-4">
+<div class="text-start mt-2">
+  <p><a href="https://drive.google.com/file/d/1yxPIE7ruP1nEx6b3l1g3n-zT26zpN-XS/view?usp=share_link" target="_blank"><strong>[Research Report]</strong></a></p>
+  <p><a href="https://drive.google.com/file/d/1EIDYY1DrOviFCu-5gos2_iJj2YyCfPlu/view?usp=share_link" target="_blank"><strong>[Research Overview]</strong></a></p>
+</div>

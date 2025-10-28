@@ -4,21 +4,36 @@ title: about
 permalink: /
 subtitle: <a href='https://www.cyber.t.u-tokyo.ac.jp/ja' target="_blank" rel="noopener">Cyber Interface Laboratory<br>葛岡・谷川・鳴海研究室</a>
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
+profile: false
+
+# selected_papers: true # includes a list of papers marked as "selected={true}"
+# social: true # includes social icons at the bottom of the page
+---
+<div class="profile float-right">
+  <div class="profile-portrait">
+    <img
+      src="{{ 'assets/img/prof_pic_light.jpg' | relative_url }}"
+      alt="Portrait of Bowen Xue in light mode"
+      class="img-fluid z-depth-1 rounded only-light"
+      loading="eager"
+    >
+    <img
+      src="{{ 'assets/img/prof_pic_dark.jpg' | relative_url }}"
+      alt="Portrait of Bowen Xue in dark mode"
+      class="img-fluid z-depth-1 rounded only-dark"
+      loading="eager"
+    >
+  </div>
+  <div class="more-info" style="margin-top: 1.5rem;">
     <ul class="profile-tags">
       <li>Human-Computer Interaction (HCI)</li>
       <li>Spatial Computing / XR Design</li>
       <li>Interactive Storytelling</li>
       <li>Memory & Perception</li>
     </ul>
+  </div>
+</div>
 
-# selected_papers: true # includes a list of papers marked as "selected={true}"
-# social: true # includes social icons at the bottom of the page
----
 Hi!☺️
 
 I am Bowen Xue, a Human-Computer Interaction (HCI) researcher and creative technologist. My work is focused on the intersection of technology and the humanities, where I explore how to build interactive experiences that are not only meaningful but also resonant.
