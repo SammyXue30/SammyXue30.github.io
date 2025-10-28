@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-line-effect",
-        title: 'Line Effect',
-        description: "A Peripheral Visual Effect with Motion Lines for Reducing VR Sickness",
+        },{id: "projects-28xiu",
+        title: '28Xiu',
+        description: "Bringing the 28 Celestial Mansions to Life with AR",
         section: "Projects",handler: () => {
             window.location.href = "/projects/1_project.html";
           },},{id: "projects-the-you-you-are",
@@ -33,41 +33,26 @@ ninja.data = [{
         description: "An interactive installation for real-time dialogue with another self.",
         section: "Projects",handler: () => {
             window.location.href = "/projects/2_project.html";
-          },},{id: "projects-project-3-with-very-long-name",
-        title: 'project 3 with very long name',
-        description: "a project that redirects to another website",
+          },},{id: "projects-line-effect",
+        title: 'Line Effect',
+        description: "A Peripheral Visual Effect with Motion Lines for Reducing VR Sickness",
         section: "Projects",handler: () => {
             window.location.href = "/projects/3_project.html";
           },},{id: "projects-collaborative-avatars-for-motivation",
         title: 'Collaborative Avatars for Motivation',
-        description: "another without an image",
+        description: "A VR study on how collaborating with one’s avatar affects motivation.",
         section: "Projects",handler: () => {
             window.location.href = "/projects/4_project.html";
-          },},{id: "projects-project-5",
-        title: 'project 5',
-        description: "a project with a background image",
+          },},{id: "projects-pencil-portraits",
+        title: 'Pencil Portraits',
+        description: "",
         section: "Projects",handler: () => {
             window.location.href = "/projects/5_project.html";
-          },},{id: "projects-project-6",
-        title: 'project 6',
-        description: "a project with no image",
+          },},{id: "projects-digital-sketches",
+        title: 'Digital Sketches',
+        description: "",
         section: "Projects",handler: () => {
             window.location.href = "/projects/6_project.html";
-          },},{id: "projects-project-7",
-        title: 'project 7',
-        description: "with background image",
-        section: "Projects",handler: () => {
-            window.location.href = "/projects/7_project.html";
-          },},{id: "projects-28xiu",
-        title: '28Xiu',
-        description: "Bringing the 28 Celestial Mansions to Life with AR",
-        section: "Projects",handler: () => {
-            window.location.href = "/projects/8_project.html";
-          },},{id: "projects-project-9",
-        title: 'project 9',
-        description: "another project with an image 🎉",
-        section: "Projects",handler: () => {
-            window.location.href = "/projects/9_project.html";
           },},{
       id: 'light-theme',
       title: 'Change theme to light',
