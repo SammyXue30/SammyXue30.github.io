@@ -16,7 +16,7 @@
     - name: Email
       value: sammy.x@cyber.t.u-tokyo.ac.jp
     - name: Languages
-      value: English (TOEFL 96), Mandarin (Native), Japanese (JLPT N1)
+      value: English (TOEFL 96), Japanese (JLPT N1), Mandarin (Native)
     - name: Location
       value: Tokyo, Japan
 
@@ -74,7 +74,7 @@
         - iOS AR app built with SwiftUI and RealityKit to visualize Chinese lunar mansions.
         - Integrated cultural storytelling, astronomical visualization, and 3D modeling.
     - title: Reducing VR Sickness with Peripheral Visual Effects
-      year: 2023 - 2024
+      year: 2024
       description:
         - Developed AR and VR prototypes exploring motion-line techniques to mitigate cybersickness.
 
