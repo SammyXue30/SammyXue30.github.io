@@ -6,54 +6,60 @@
     - name: Affiliation
       value: Graduate School of Interdisciplinary Information Studies, The University of Tokyo
     - name: Course
-      value: Emerging Design and Informatics Course (EDIC)
-    - name: Position
-      value: M1 Student (Master’s Year 1)
-    - name: Research Laboratories
-      value: Kuzuoka & Mizuho Laboratory (Cyber Interface Lab)
+      value: Emerging Design and Informatics Course
+    - name: Status
+      value: First-year Master’s Student
+    - name: Theme
+      value: Mechanisms and Control of Memory Integration Between Reality and Virtual Reality
+    - name: Advisor
+      value: Prof. Hideaki Kuzuoka
     - name: Email
       value: sammy.x@cyber.t.u-tokyo.ac.jp
     - name: Languages
-      value: Chinese (Native), Japanese (JLPT N1), English (TOEFL 96)
+      value: English (TOEFL 96), Mandarin (Native), Japanese (JLPT N1)
+    - name: Location
+      value: Tokyo, Japan
 
 - title: Education
   type: time_table
   contents:
-    - title: Master of Interdisciplinary Information Studies
+    - title: Master
       institution: The University of Tokyo, Japan
-      year: 2025 - Present
+      year: 2025 - 2027
       description:
-        - Research on VR/AR-based human-computer interaction under Prof. Hideaki Kuzuoka and Prof. Takato Mizuho.
-        - Focus on memory integration, plausibility perception, and avatar design fidelity in mixed reality.
-    - title: Bachelor of Software Engineering & Japanese
+        - Emerging Design and Informatics Course
+        - Research on mechanisms and control of memory integration between reality and VR.
+        - 'Advisor: Prof. Hideaki Kuzuoka'
+    - title: Bachelor
       institution: Dalian Jiaotong University, China
-      year: 2020 - 2024
+      year: 2019 - 2024
       description:
-        - GPA 89.24 / 100.
-        - Exchange Program at Tokyo City University (Visual Media Lab, 2022–2023).
-        - Graduation thesis on reducing VR sickness using peripheral motion line effects.
+        - Double Degree (Bachelor of Arts in Japanese, Bachelor of Engineering in Software Engineering)
+        - 'GPA: 89.91 / 100'
+        - 'Relevant Coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Design, Computer Systems, Advanced Japanese'
+    - title: Visiting Student
+      institution: Tokyo City University, Japan
+      year: 2022 - 2023
+      description:
+        - Exchange Research Student, Visual Media Laboratory, Faculty of Information Technology
+        - Conducted research on VR sickness reduction using peripheral visual effects (motion lines).
+    - title: Precollege Summer InstituteVisiting Student
+      institution: University of California, Los Angeles, United States
+      year: 2016
+      description:
+        - Summer Sessions (Precollege Summer Institute), Cross-Cultural & Digital Media Coursework
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Student (Exchange Program)
-      institution: Tokyo City University, Visual Media Laboratory
-      year: 2022 - 2023
-      description:
-        - Conducted research on VR sickness reduction using peripheral visual effects (motion lines).
-        - Developed experimental applications using Unity and Python for data collection and analysis.
-    - title: Teaching Facilitator (Creative Coding)
-      institution: Apple Camp / Today at Apple
+    - title: Apple Teacher (Drawing and Programming)
+      institution: Today at Apple, Apple Camp, China
       year: 2021
       description:
-        - Taught interactive digital art and coding with iPad and Swift Playgrounds.
-        - Supported students in learning creative coding and visual storytelling.
-    - title: Student Researcher
-      institution: The University of Tokyo, Cyber Interface Laboratory
-      year: 2025 - Present
-      description:
-        - Conducting research on virtual self-modeling, social plausibility, and memory integration in mixed reality.
-        - Designing user studies combining AR/VR interfaces and avatar-based interaction.
+        - Conducted creative coding and digital drawing sessions using iPad and Swift Playgrounds.
+        - Designed interactive exercises following Apple’s creative learning framework.
+        - Coordinated with store managers to manage workshop logistics and schedules.
+    
 
 - title: Projects
   type: time_table
@@ -61,59 +67,29 @@
     - title: The You You Are
       year: 2025
       description:
-        - An interactive installation that enables real-time conversation with a “parallel self” through AI and voice cloning.
-        - Exhibited at the University of Tokyo iii Exhibition 2025.
-    - title: 28 Xiu / 28 Mansions
+        - Interactive installation enabling real-time conversation with a “parallel self” via AI and voice cloning.
+    - title: 28 Mansions
       year: 2025
       description:
-        - AR application visualizing the Chinese lunar mansions using RealityKit and SwiftUI.
-        - Includes astronomical data visualization, mythological storytelling, and fortune interpretation.
-    - title: Collaborative Avatars for Motivation
-      year: 2025
+        - iOS AR app built with SwiftUI and RealityKit to visualize Chinese lunar mansions.
+        - Integrated cultural storytelling, astronomical visualization, and 3D modeling.
+    - title: Reducing VR Sickness with Peripheral Visual Effects
+      year: 2023 - 2024
       description:
-        - VR experiment studying how observing one’s avatar being praised can enhance real-world motivation.
-    - title: Weak Virtual Agent Project
-      year: 2025
-      description:
-        - Research on designing “weak” virtual agents to evoke empathy and behavioral reflection based on social learning theory.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - Outstanding Graduate Award, Dalian Jiaotong University
-        - Academic Excellence Scholarship
-    - year: 2023
-      items:
-        - Tokyo City University Exchange Program Research Achievement Recognition
+        - Developed AR and VR prototypes exploring motion-line techniques to mitigate cybersickness.
 
 - title: Technical Skills
-  type: list
+  type: nested_list
   contents:
-    - Programming: Swift, C#, Python, C++, JavaScript
-    - Frameworks: Unity, RealityKit, SwiftUI, ARKit, OpenCV
-    - Tools: Xcode, Blender, GitHub, Adobe Creative Suite
-    - Languages: Chinese, Japanese, English
+    - title: Programming Languages
+      items:  Swift, Python, C#
+    - title: Frameworks & Tools
+      items:  Blender, Unity, SwiftUI, RealityKit, ARKit, Xcode, OpenCV, Git
 
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Virtual & Augmented Reality
-      items:
-        - Mixed Reality Interaction and Perception
-        - Video See-through / Optical See-through System Design
     - title: Human-Computer Interaction (HCI)
-      items:
-        - Social Presence and Plausibility in Virtual Environments
-        - Avatars, Embodiment, and Memory Integration
-    - title: Cultural Computing & Media Design
-      items:
-        - Interactive Storytelling
-        - Digital Heritage Visualization
-        - AI-mediated Communication
-
-- title: Other Interests
-  type: list
-  contents:
-    - Digital Art, Photography, and Cross-Cultural Storytelling
+    - title: Spatial Computing / XR Design
+    - title: Interactive Storytelling
+    - title: Memory & Perception

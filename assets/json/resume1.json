@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "Bowen Xue (薛博文)",
+    "Email": "sammy.x@cyber.t.u-tokyo.ac.jp",
+    "summary": "",
+    "location": {
+      "city": "Tokyo",
+      "region": "Japan",
+      "countryCode": "JP"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "SammyXue30",
+        "url": "https://github.com/SammyXue30"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Cyber Interface Laboratory, The University of Tokyo",
+      "position": "Student Researcher (M1)",
+      "url": "https://www.cyber.t.u-tokyo.ac.jp/",
+      "startDate": "2025-04-01",
+      "summary": "Conducting research on virtual self-modeling, social plausibility, and memory integration in mixed reality environments.",
+      "highlights": [
+        "Studying human-avatar interaction and plausibility perception using HMDs with video see-through capabilities.",
+        "Designing VR experiments exploring empathy, trust, and self-projection in behavioral change contexts."
+      ]
+    },
+    {
+      "name": "Apple Camp / Today at Apple",
+      "position": "Creative Coding Facilitator",
+      "startDate": "2021-07-01",
+      "endDate": "2021-08-01",
+      "summary": "Led creative coding and digital art sessions using iPad and Swift Playgrounds for young learners.",
+      "highlights": [
+        "Taught participants to express ideas through interactive media and visual storytelling."
+      ]
+    },
+    {
+      "name": "Visual Media Laboratory, Tokyo City University",
+      "position": "Research Student (Exchange Program)",
+      "startDate": "2022-04-01",
+      "endDate": "2023-03-01",
+      "summary": "Conducted research on reducing VR sickness through peripheral motion line effects using Unity and ARKit.",
+      "highlights": [
+        "Developed iOS AR prototypes and Unity-based VR experiments for perceptual analysis.",
+        "Published results as part of undergraduate thesis and cross-institutional collaboration."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Tokyo",
+      "area": "Interdisciplinary Information Studies (Emerging Design and Informatics Course)",
+      "studyType": "Master's",
+      "startDate": "2025-04-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Human-Computer Interaction", "Virtual & Augmented Reality", "Mixed Reality Perception"]
+    },
+    {
+      "institution": "Dalian Jiaotong University",
+      "area": "Software Engineering & Japanese",
+      "studyType": "Bachelor's",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-30",
+      "score": "GPA 89.24 / 100",
+      "courses": ["Computer Graphics", "Human-Computer Interaction", "Japanese Language and Culture"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Outstanding Graduate Award",
+      "date": "2024-06-30",
+      "awarder": "Dalian Jiaotong University",
+      "summary": "Recognized for academic excellence and research achievement."
+    },
+    {
+      "title": "Exchange Program Research Achievement Recognition",
+      "date": "2023-03-01",
+      "awarder": "Tokyo City University",
+      "summary": "Awarded for research contribution to VR sickness reduction study."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": ["Swift", "C#", "Python", "C++", "JavaScript"]
+    },
+    {
+      "name": "Frameworks & Tools",
+      "level": "Advanced",
+      "keywords": ["Unity", "RealityKit", "SwiftUI", "ARKit", "OpenCV", "Xcode", "Blender", "GitHub"]
+    },
+    {
+      "name": "Languages",
+      "level": "Professional",
+      "keywords": ["Chinese (Native)", "Japanese (JLPT N1)", "English (TOEFL 96)"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "The You You Are",
+      "summary": "An interactive installation enabling real-time conversations with a 'parallel self' through AI and voice cloning, exploring identity and self-reflection.",
+      "startDate": "2025-05-01",
+      "url": "https://sammyxue30.github.io/projects/the-you-you-are/"
+    },
+    {
+      "name": "28 Xiu / 28 Mansions",
+      "summary": "An AR application visualizing the Chinese lunar mansions using RealityKit and SwiftUI, integrating cultural storytelling and astronomical visualization.",
+      "startDate": "2025-03-01",
+      "url": "https://sammyxue30.github.io/projects/28xiu/"
+    },
+    {
+      "name": "Collaborative Avatars for Motivation",
+      "summary": "A VR experiment investigating how observing one's avatar being praised affects motivation and self-perception.",
+      "startDate": "2025-10-01"
+    },
+    {
+      "name": "Weak Virtual Agent Project",
+      "summary": "A research project exploring 'weak' virtual agents that evoke empathy and behavioral reflection using social learning theory and virtual self-modeling.",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "JLPT N1"
+    },
+    {
+      "language": "English",
+      "fluency": "TOEFL 96"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Virtual & Augmented Reality",
+      "keywords": ["Mixed Reality", "Video See-through / Optical See-through Systems", "Avatar Interaction", "Memory & Perception"]
+    },
+    {
+      "name": "Cultural Computing & Media Art",
+      "keywords": ["Interactive Storytelling", "Digital Heritage Visualization", "AI-mediated Communication"]
+    },
+    {
+      "name": "Creative Technology",
+      "keywords": ["SwiftUI Design", "XR Prototyping", "Generative Media"]
+    }
+  ]
+}
