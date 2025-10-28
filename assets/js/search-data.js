@@ -38,8 +38,8 @@ ninja.data = [{
         description: "a project that redirects to another website",
         section: "Projects",handler: () => {
             window.location.href = "/projects/3_project.html";
-          },},{id: "projects-project-4",
-        title: 'project 4',
+          },},{id: "projects-collaborative-avatars-for-motivation",
+        title: 'Collaborative Avatars for Motivation',
         description: "another without an image",
         section: "Projects",handler: () => {
             window.location.href = "/projects/4_project.html";
