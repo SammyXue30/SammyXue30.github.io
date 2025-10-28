@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaborative Avatars for Motivation
-description: another without an image
+description: A VR study on how collaborating with one’s avatar affects motivation.
 tags: [C#, Unity]
 img: assets/img/scene.jpg
 importance: 4
