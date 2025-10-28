@@ -58,9 +58,9 @@ ninja.data = [{
         description: "with background image",
         section: "Projects",handler: () => {
             window.location.href = "/projects/7_project.html";
-          },},{id: "projects-project-8",
-        title: 'project 8',
-        description: "an other project with a background image and giscus comments",
+          },},{id: "projects-28xiu",
+        title: '28Xiu',
+        description: "Bringing the 28 Celestial Mansions to Life with AR",
         section: "Projects",handler: () => {
             window.location.href = "/projects/8_project.html";
           },},{id: "projects-project-9",
