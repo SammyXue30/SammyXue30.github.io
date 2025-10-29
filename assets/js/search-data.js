@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "Projects",
+          title: "projects",
           description: "A collection of research and interactive projects blending culture, design, and immersive technology.",
           section: "Navigation",
           handler: () => {
