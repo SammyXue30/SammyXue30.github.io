@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: A collection of research and interactive projects blending culture, design, and immersive technology.
 nav: true
