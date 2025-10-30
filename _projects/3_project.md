@@ -141,4 +141,6 @@ The Line Effect significantly reduced cybersickness (measured by SSQ scores) whi
 
 <hr class="mb-4">
 <h4 class="mb-3">Credits</h4>
-Bowen Xue (薛博文)<br> 
+Bowen Xue (薛博文) — Development<br>
+Nakamura Koki (中村光輝) — Mentor<br>
+Bao Yue (包 躍) — Professor<br>

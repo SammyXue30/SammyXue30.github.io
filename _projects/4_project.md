@@ -59,5 +59,5 @@ Bowen Xue (薛 博文) — Development<br>
 Yong-Hao Hu (胡 永澔) — Mentor<br> 
 Atsuya Matsumoto (松本 篤弥) — Mentor<br> 
 Takato Mizuho (瑞穂 嵩人) — Mentor<br> 
-Takashi Narumi (鳴海 拓志) — Professor<br> 
+Takuji Narumi (鳴海 拓志) — Professor<br> 
 Hideaki Kuzuoka (葛岡 英明) — Professor<br> 
