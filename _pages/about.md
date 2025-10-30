@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.cyber.t.u-tokyo.ac.jp/ja' target="_blank" rel="noopener">Cyber Interface Laboratory<br>葛岡・谷川・鳴海研究室</a>
 
