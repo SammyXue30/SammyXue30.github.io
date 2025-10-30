@@ -6,7 +6,6 @@ tags: [Swift, Xcode]
 img: assets/img/28Xiu.jpg
 importance: 1
 category: Work
-giscus_comments: true
 ---
 <div class="mb-3">
   {% for tag in page.tags %}

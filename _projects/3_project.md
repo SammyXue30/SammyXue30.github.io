@@ -6,7 +6,6 @@ tags: [Swift, Python, C#, Xcode, Unity]
 img: assets/img/LineEffect.gif
 importance: 3
 category: Work
-related_publications: false
 ---
 <div class="mb-3">
   {% for tag in page.tags %}

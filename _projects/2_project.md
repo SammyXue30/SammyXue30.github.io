@@ -6,7 +6,6 @@ tags: [Python, C, Visual Studio Code]
 img: assets/img/TheYouYouAre.jpg
 importance: 2
 category: Work
-giscus_comments: true
 ---
 <div class="mb-3">
   {% for tag in page.tags %}
