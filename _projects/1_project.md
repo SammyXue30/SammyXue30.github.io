@@ -49,17 +49,35 @@ The application invites users to explore the rich system of the 28 Mansions thro
     <div class="caption mt-2"></div>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Feature2.gif" title="SSQ Scores" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/Feature2.gif" title="Naturalness Scores" class="img-fluid rounded z-depth-1" %}
     <div class="caption mt-2"></div>
   </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Feature3.gif" title="Naturalness Scores" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/Feature3b.gif" title="Naturalness Scores" class="img-fluid rounded z-depth-1" %}
     <div class="caption mt-2"></div>
   </div>
 </div>
 
+
+
 28Xiu comprises four interconnected features that blend cultural storytelling with modern interaction. The Concept & Lore section introduces the mythology and cosmology of the 28 Lunar Mansions. Lunar Calendar connects this ancient system to the present, showing which Mansion governs each day. The Celestial Gallery offers the core AR experience, where users can view life-sized deities modeled after Yuhuang Temple sculptures. Finally, Personal Guidance invites users to discover their guardian star and receive poetic reflections inspired by the relationship between their birth mansion and the current celestial alignment.
 
+This work was exhibited at the University of Tokyo <a href="https://www.u-tokyo.ac.jp/focus/ja/events/z0115_00083.html" target="_blank">iii Exhibition 2025</a>.
+
+<div class="row text-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/Feature3.gif" title="VR-Based Experiment" class="img-fluid rounded z-depth-1" %}
+    <div class="caption mt-2"></div>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/28XiuExhibition2.png" title="VR-Based Experiment" class="img-fluid rounded z-depth-1" %}
+    <div class="caption mt-2"></div>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/28XiuExhibition1.jpeg" title="SSQ Scores" class="img-fluid rounded z-depth-1" %}
+    <div class="caption mt-2"></div>
+  </div>
+</div>
 
 
 <hr class="mb-4">
