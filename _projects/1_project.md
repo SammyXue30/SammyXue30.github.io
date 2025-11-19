@@ -70,11 +70,11 @@ This work was exhibited at the University of Tokyo <a href="https://www.u-tokyo.
     <div class="caption mt-2"></div>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/28XiuExhibition2.png" title="VR-Based Experiment" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/28XiuExhibition2.jpg" title="VR-Based Experiment" class="img-fluid rounded z-depth-1" %}
     <div class="caption mt-2"></div>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/28XiuExhibition1.jpeg" title="SSQ Scores" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/28XiuExhibition1.jpg" title="SSQ Scores" class="img-fluid rounded z-depth-1" %}
     <div class="caption mt-2"></div>
   </div>
 </div>
