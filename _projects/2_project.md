@@ -67,7 +67,7 @@ category: Work
 
 <div class="row justify-content-center mt-3">
   <div class="col-sm-10">
-    {% include figure.liquid loading="eager" path="assets/img/InternalStructure.jpg" title="App Interface Overview" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/HardwareOverview.png" title="App Interface Overview" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
