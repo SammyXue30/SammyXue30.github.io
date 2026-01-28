@@ -36,7 +36,7 @@ profile: false
 
 Hi!☺️
 
-I am Bowen Xue (薛 博文, セツ　ハクブン), a Human-Computer Interaction (HCI) researcher and creative technologist. My work is focused on the intersection of technology and the humanities, where I explore how to build interactive experiences that are not only meaningful but also resonant.
+I am Bowen Xue (薛 博文, セツ ハクブン), a Human-Computer Interaction (HCI) researcher and creative technologist. My work is focused on the intersection of technology and the humanities, where I explore how to build interactive experiences that are not only meaningful but also resonant.
 
 This pursuit stems from my dual passion for design aesthetics and engineering logic. During my undergraduate studies, I pursued a double major in `Software Engineering` and `Japanese`, which allowed me to build technical programming skills while simultaneously developing an appreciation for humanistic perspectives. This period included a year-long exchange at Tokyo City University's [Visual Media Laboratory](https://www.ke.tcu.ac.jp/labo/cs05/), where I developed a practical project to mitigate VR sickness.
 
