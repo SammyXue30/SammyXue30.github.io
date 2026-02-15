@@ -3,7 +3,7 @@ layout: page
 title: Pencil Portraits
 description:
 tags: [Pencil, Paper]
-img: /assets/img/weeknd.jpg
+img: /assets/img/weeknd.png
 importance: 5
 category: Art
 ---
