@@ -2,14 +2,18 @@
 layout: page
 title: The You You Are
 description: An interactive installation for real-time dialogue with another self.
-tags: [Python, C, Visual Studio Code]
+tags: [Python, C, Visual Studio Code, CHI '26]
 img: assets/img/TheYouYouAre.jpg
 importance: 2
 category: Work
 ---
 <div class="mb-3">
   {% for tag in page.tags %}
-    <span class="badge bg-primary me-1">{{ tag }}</span>
+    {% if tag == "CHI '26" %}
+      <span class="badge d-block mt-2" style="background-color: #fd7e14; width: fit-content;">{{ tag }}</span>
+    {% else %}
+      <span class="badge bg-primary me-1">{{ tag }}</span>
+    {% endif %}
   {% endfor %}
 </div>
 <hr class="mb-4">
@@ -31,10 +35,10 @@ category: Work
      Housed inside <code>a modified payphone</code>, the installation invites participants to engage in a live and unexpected conversation with an entity that speaks, listens, and responds in their own voice.
     </p>
     <p>
-      This work was exhibited at the University of Tokyo <a href="https://www.u-tokyo.ac.jp/focus/ja/events/z0115_00083.html" target="_blank">iii Exhibition 2025</a>.
+      This work was exhibited at the University of Tokyo <a href="https://www.u-tokyo.ac.jp/focus/ja/events/z0115_00083.html" target="_blank">iii Exhibition 2025</a> and is accepted to <a href="https://chi2026.acm.org/authors/interactive-demos/" target="_blank">CHI '26 Interactive Demos</a>.
     </p>
     <p>
-      The experience unfolds as a seamless narrative from curiosity to reflection. Upon picking up the payphone receiver, the participant is greeted by a interface on the screen, requesting consent to temporarily sample their voice. After agreeing, the participant answers three brief, open-ended questions that provide the audio data for real-time voice cloning. Moments later, a “parallel self,” powered by generative AI, begins speaking in the participant’s own voice, initiating a live dialogue across realities. When the call ends, a built-in thermal printer produces a small receipt summarizing key moments from the conversation—a tangible trace of an otherwise ephemeral exchange.
+      The experience unfolds as a seamless narrative from curiosity to reflection. Upon picking up the payphone receiver, the participant is greeted by an interface on the screen, requesting consent to temporarily sample their voice. After agreeing, the participant answers three brief, open-ended questions that provide the audio data for real-time voice cloning. Moments later, a “parallel self,” powered by generative AI, begins speaking in the participant’s own voice, initiating a live dialogue across realities. When the call ends, a built-in thermal printer produces a small receipt summarizing key moments from the conversation—a tangible trace of an otherwise ephemeral exchange.
     </p>
     <p>
       The installation invites participants to reflect on who they really are. It creates a curious paradox: the voice sounds like one’s own, yet the thoughts and memories belong to someone else. Through this mix of the familiar and the unfamiliar, the experience gently asks the question at the heart of The You You Are.
@@ -87,6 +91,3 @@ Genta Ono (小野源太) — Director (Creative & Technical)<br>
 Tsubasa Yoshida (吉田翼) — Lead Engineer<br> 
 Siyu Yao (姚思妤) — Designer<br> 
 Wenhe Wang (王文鶴) — Special Thanks<br> 
-
-
-
