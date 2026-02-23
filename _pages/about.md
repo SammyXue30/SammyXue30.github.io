@@ -12,15 +12,9 @@ profile: false
 <div class="profile float-right">
   <div class="profile-portrait">
     <img
-      src="{{ 'assets/img/prof_pic_light.jpg' | relative_url }}"
-      alt="Portrait of Bowen Xue in light mode"
-      class="img-fluid z-depth-1 rounded only-light"
-      loading="eager"
-    >
-    <img
-      src="{{ 'assets/img/prof_pic_dark.jpg' | relative_url }}"
-      alt="Portrait of Bowen Xue in dark mode"
-      class="img-fluid z-depth-1 rounded only-dark"
+      src="{{ 'assets/img/prof_pic.png' | relative_url }}"
+      alt="Portrait of Bowen Xue"
+      class="img-fluid z-depth-1 rounded"
       loading="eager"
     >
   </div>
