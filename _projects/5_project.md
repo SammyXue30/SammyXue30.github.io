@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pencil Portraits
+title: Portrait Sketchbook
 description:
 tags: [Pencil, Paper]
 img: /assets/img/weeknd.png
@@ -49,5 +49,4 @@ category: Art
         {% include figure.liquid loading="eager" path="assets/img/IMG_6437.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 

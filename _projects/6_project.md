@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Sketches
+title: "Met Gala '24 Sketches"
 description:
 tags: [Procreate, iPad]
 img: /assets/img/metgala.jpg
