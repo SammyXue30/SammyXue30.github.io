@@ -43,13 +43,13 @@ ninja.data = [{
         description: "A VR study on how collaborating with one’s avatar affects motivation.",
         section: "Projects",handler: () => {
             window.location.href = "/projects/4_project.html";
-          },},{id: "projects-pencil-portraits",
-        title: 'Pencil Portraits',
+          },},{id: "projects-portrait-sketchbook",
+        title: 'Portrait Sketchbook',
         description: "",
         section: "Projects",handler: () => {
             window.location.href = "/projects/5_project.html";
-          },},{id: "projects-digital-sketches",
-        title: 'Digital Sketches',
+          },},{id: "projects-met-gala-39-24-sketches",
+        title: 'Met Gala &amp;#39;24 Sketches',
         description: "",
         section: "Projects",handler: () => {
             window.location.href = "/projects/6_project.html";
