@@ -9,8 +9,45 @@ layout: default
 {% endif %}
 
 <div class="post">
+  <style>
+    .page-title-with-icons {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .page-title-icons {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .page-title-icon {
+      height: 1em;
+      width: auto;
+      display: block;
+      object-fit: contain;
+    }
+  </style>
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title">
+      <span class="page-title-with-icons">
+        <span>{{ page.title }}</span>
+        {% if page.title_icons %}
+          <span class="page-title-icons">
+            {% for icon in page.title_icons %}
+              <img
+                src="{{ icon | prepend: 'assets/img/' | relative_url }}"
+                alt=""
+                class="page-title-icon"
+                loading="eager"
+              >
+            {% endfor %}
+          </span>
+        {% endif %}
+      </span>
+    </h1>
     <p class="post-description">{{ page.description }}</p>
   </header>
 
