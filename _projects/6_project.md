@@ -7,6 +7,36 @@ img: /assets/img/metgala.jpg
 importance: 6
 category: Art
 ---
+<style>
+  .digital-sketches-gallery .row {
+    margin-bottom: 1rem;
+  }
+
+  .digital-sketches-gallery figure {
+    margin-bottom: 0;
+  }
+
+  .digital-sketches-gallery picture {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 320px;
+  }
+
+  .digital-sketches-gallery img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @media (max-width: 768px) {
+    .digital-sketches-gallery picture {
+      height: 240px;
+    }
+  }
+</style>
+
 <div class="mb-3">
   {% for tag in page.tags %}
     <span class="badge bg-primary me-1">{{ tag }}</span>
@@ -14,6 +44,7 @@ category: Art
 </div>
 <hr class="mb-4">
 
+<div class="digital-sketches-gallery">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IMG_3005 - 01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -55,4 +86,4 @@ category: Art
         {% include figure.liquid loading="eager" path="assets/img/未命名作品 - 01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
+</div>
