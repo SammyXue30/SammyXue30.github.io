@@ -7,6 +7,12 @@ img: assets/img/28Xiu.jpg
 importance: 1
 category: Work
 ---
+<style>
+  .feature-gif-rounded {
+    border-radius: 0.25rem !important;
+  }
+</style>
+
 <div class="mb-3">
   {% for tag in page.tags %}
     <span class="badge bg-primary me-1">{{ tag }}</span>
@@ -45,15 +51,15 @@ The application invites users to explore the rich system of the 28 Mansions thro
 
 <div class="row text-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Feature1.gif" title="VR-Based Experiment" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/Feature1.gif" title="VR-Based Experiment" class="img-fluid rounded z-depth-1 feature-gif-rounded" %}
     <div class="caption mt-2"></div>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Feature2.gif" title="Naturalness Scores" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/Feature2.gif" title="Naturalness Scores" class="img-fluid rounded z-depth-1 feature-gif-rounded" %}
     <div class="caption mt-2"></div>
   </div>
     <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Feature3b.gif" title="Naturalness Scores" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/Feature3b.gif" title="Naturalness Scores" class="img-fluid rounded z-depth-1 feature-gif-rounded" %}
     <div class="caption mt-2"></div>
   </div>
 </div>
@@ -66,7 +72,7 @@ This work was exhibited at the University of Tokyo <a href="https://www.u-tokyo.
 
 <div class="row text-center">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Feature3.gif" title="VR-Based Experiment" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/Feature3.gif" title="VR-Based Experiment" class="img-fluid rounded z-depth-1 feature-gif-rounded" %}
     <div class="caption mt-2"></div>
   </div>
   <div class="col-sm mt-3 mt-md-0">
